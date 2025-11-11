@@ -20,6 +20,19 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Yrashka2025/telegram-bot-template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yrashka2025&repo=telegram-bot-template&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Yrashka2025/mini-games">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yrashka2025&repo=mini-games&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ### 🔧 Tech Stack
 
 <p align="center">
@@ -27,6 +40,8 @@
   <img src="https://img.shields.io/badge/SQLite-FBBDD3?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Telebot-FEC8D8?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-FFB6B9?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-FDA4BA?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC2D1?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
@@ -45,12 +60,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yrashka2025&layout=compact&theme=tokyonight&title_color=ffbde6" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/83/cd/e7/83cde7e35be87e4ea3f06b3a642bc2b4.gif" width="200"/><br>
-  <i>“Code like it's magic, debug like a ninja.”</i>
-</p>
-
----
