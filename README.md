@@ -18,21 +18,6 @@
 - 🧪 Currently mastering: `AsyncIO`, `WebApps`, `Telegram Stars`, `Databases`  
 - 🍓 Hobbies: coding, anime, and making cool projects alone or with friends  
 
----
-
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Yrashka2025/telegram-bot-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yrashka2025&repo=telegram-bot-template&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Yrashka2025/mini-games">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yrashka2025&repo=mini-games&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ### 🔧 Tech Stack
 
 <p align="center">
@@ -51,12 +36,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yrashka2025&show_icons=true&theme=tokyonight&icon_color=ffaad4&title_color=ffbde6" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Yrashka2025&theme=tokyonight&fire=ff79c6" width="48%">
-</p>
-
----
-
-### 💕 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yrashka2025&layout=compact&theme=tokyonight&title_color=ffbde6" />
 </p>
